@@ -8,12 +8,12 @@ This page contains a schedule of the teaching sessions. In general most of the t
 
 - Morning session (9-12):
   - 9-11 exercises,
-  - 11-12 live lecture (via Zoom - link in [Absalon page](https://absalon.ku.dk/courses/44054))
+  - 11-12 live lecture (via Zoom - links [here](https://absalon.ku.dk/courses/44054/pages/teaching-links))
 - Lunch break (12-14):
-  - 12-13 optional office via Zoom (must book via email to either ABN, NJ or TJ)
+  - 12-13 office hours, optional (via Zoom, booking system will come)
 - Afternoon session (14-17):
   - 14-16 exercise
-  - 16-17 live lecture (via Zoom - link in [Absalon page](https://absalon.ku.dk/courses/44054))
+  - 16-17 live lecture (via Zoom - links [here](https://absalon.ku.dk/courses/44054/pages/teaching-links))
 
 
 The complete schedule of sessions is listed below with title, lecturer and links to material. Unless otherwise specified, the teaching will use the hours specified above.
@@ -24,7 +24,7 @@ Date  | Time  | Title | Teachers | Material
 ------|------:|-------|:--------:|:------
       |        | -------   Preparation  ------- | |
 Jul 05|        |  <font color="green">Assignment 0 posted</font>   |  | [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment_0.ipynb)
-Aug 04| TBD        |  Assignment 0 online workshop `*`  |  TAs |
+Aug 04| 15-18        |  Assignment 0 online workshop `*`  |  JSRP | [pdf](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment0_workshop_slides.pdf)|
 Aug 07|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
       |       | ---------   Week 1  --------- | | |
 Aug 10|  9-10 | 1a. Course welcome | DDL |
@@ -34,7 +34,7 @@ Aug 10|  9-10 | 1a. Course welcome | DDL |
 Aug 11|  9-12 | 3. Visualizations | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_3/module_3.ipynb)
  | 14-17 | 4. Data structuring 1 | ABN & TAs|
 Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs|
- | 14-17 | 6. Scraping 1 | NJ |
+ | 14-17 | 6. Scraping 1 | NJ & TAs|
  | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  |  
 Aug 13| 9-12| 7. Scraping 2 | NJ & TAs|
  |14-17| 8. Scraping 3 | NJ & TAs|
@@ -69,7 +69,7 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 - Esben Brøgger Lemminger (EBM)
 - Kristoffer Pade Glavind (KPG)
 - Jakob Scheel-Bech (EC)
-- Jonas Skjold Raaschou-Pedersen (JRP)
+- Jonas Skjold Raaschou-Pedersen (JSRP)
 - Josefine Bjørnholm (JB)
 - Lykke Sterll (LS)
 - Mads Berner Bruun (MBB)
