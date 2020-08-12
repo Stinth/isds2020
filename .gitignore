@@ -7,7 +7,6 @@
 *.slides.html
 *.nbgrader.log
 *Kahoot*
-
 src_material/*
 
 
